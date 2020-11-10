@@ -2,11 +2,11 @@
 
 Testi e materiale di riferimento
 
-##Documenti tecnici
+## Documenti tecnici
 
 - [WMO Guidelines on the Calculation of Climate Normals](https://library.wmo.int/doc_num.php?explnum_id=4166)
   - Si veda in particolare:
-    - pagina 7(Criteri del 3/5 e del 4/10)
+    - pagina 7 (Criteri del 3/5 e del 4/10)
     - pagina 8 (Numero di anni mancanti consecutivi)
     - pagina 16 (valori climatologici non standard)
     
@@ -27,6 +27,13 @@ Persistenza di zeri: tolleranza 15 giorni. **Rivedere cosa facciamo con SCIA**
 ## Articoli dove si descrive l'unione di serie diverse
 
 [The construction of a Central Netherlands temperature](https://www.researchgate.net/publication/307719738_The_construction_of_a_Central_Netherlands_temperature), van der Schrier et al., 2011. Clim. Past, 7.
+
+## Articoli su prodotti su griglia
+
+- [E-OBS](https://cds.climate.copernicus.eu/cdsapp#!/dataset/insitu-gridded-observations-europe?tab=overview)
+
+The dataset is daily, meaning the observations cover 24 hours per time step. The exact 24-hour period can be different per region. The reason for this is that some data providers measure between midnight to midnight while others might measure from morning to morning. Since E-OBS is an observational dataset, no attempts have been made to adjust time series for this 24-hour offset.
+
 
 ## Altri articoli
 
