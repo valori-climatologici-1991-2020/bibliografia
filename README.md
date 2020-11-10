@@ -26,7 +26,17 @@ Persistenza di zeri: tolleranza 15 giorni. **Rivedere cosa facciamo con SCIA**
 
 ## Articoli dove si descrive l'unione di serie diverse
 
-[The construction of a Central Netherlands temperature](https://www.researchgate.net/publication/307719738_The_construction_of_a_Central_Netherlands_temperature), van der Schrier et al., 2011. Clim. Past, 7.
+- [The construction of a Central Netherlands temperature](https://www.researchgate.net/publication/307719738_The_construction_of_a_Central_Netherlands_temperature), van der Schrier et al., 2011. Clim. Past, 7.
+
+Poco interessante
+
+- [Synoptic messages to extend climate data records](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2011JD016687), van den Besselaar et al., 2012. Climate and Dynamics.
+
+Interessante per la spiegazione dei messaggi SYNOP.
+
+- [ECA&D](https://www.ecad.eu/documents/atbd.pdf)
+
+Descrizione dei criteri per identificare le serie limitrofe per estendere le serie dati.
 
 ## Articoli su prodotti su griglia
 
