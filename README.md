@@ -10,7 +10,7 @@ Testi e materiale di riferimento
     - pagina 8 (Numero di anni mancanti consecutivi)
     - pagina 16 (valori climatologici non standard)
     
-## Articoli valori climatologici
+## Articoli valori normali
 
 - [1961–1990 high‐resolution monthly precipitation climatologies for Italy](https://rmets.onlinelibrary.wiley.com/doi/10.1002/joc.5217), Crespi et al. 2017. International Journal of Climatology. Volume 38, Issue 2.
 
