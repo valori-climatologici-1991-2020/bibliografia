@@ -44,6 +44,10 @@ Descrizione dei criteri per identificare le serie limitrofe per estendere le ser
 
 The dataset is daily, meaning the observations cover 24 hours per time step. The exact 24-hour period can be different per region. The reason for this is that some data providers measure between midnight to midnight while others might measure from morning to morning. Since E-OBS is an observational dataset, no attempts have been made to adjust time series for this 24-hour offset.
 
+- [A European daily high‐resolution gridded data set of surface temperature and precipitation for 1950–2006](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2008JD010201), Hylock et al., 2008. Climate and Dynamics, Volume 113.
+
+Qui viene affrontato in maniera veloce il problema dello shifting dei giorni delle serie.
+
 
 ## Altri articoli
 
