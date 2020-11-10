@@ -34,9 +34,13 @@ Poco interessante
 
 Interessante per la spiegazione dei messaggi SYNOP.
 
+- [Updated and extended European dataset of daily climate observations](https://rmets.onlinelibrary.wiley.com/doi/epdf/10.1002/joc.1779), Klok and Tank, 2008. Int. J. Climatol. Volume 29.
+
+Discute del dataset ECA: serie che distano 25 km e con una differenza di quota di 25 metri vengono unite. Ma si veda anche il link del dataset ECA&D 
+
 - [ECA&D](https://www.ecad.eu/documents/atbd.pdf)
 
-Descrizione dei criteri per identificare le serie limitrofe per estendere le serie dati.
+Descrizione dei criteri per identificare le serie limitrofe per estendere le serie dati. La distanza ammessa per la ricerca di stazioni limitrofe e' di 12.5 km e una differenza di quota di 50 m. 
 
 ## Articoli su prodotti su griglia
 
