@@ -24,6 +24,10 @@ La Figura 2 interessante per descrivere la densità delle stazioni nel corso del
 
 Persistenza di zeri: tolleranza 15 giorni. **Rivedere cosa facciamo con SCIA**
 
+## Articoli dove si descrive l'unione di serie diverse
+
+[The construction of a Central Netherlands temperature](https://www.researchgate.net/publication/307719738_The_construction_of_a_Central_Netherlands_temperature), van der Schrier et al., 2011. Clim. Past, 7.
+
 ## Altri articoli
 
 - [Evaluating meteorological data from weather stations, and from satellites and global models for a multi-site epidemiological study](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6024078/), Colston et al., 2018. Environ Res, 165. 
