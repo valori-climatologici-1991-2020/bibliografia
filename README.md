@@ -9,6 +9,9 @@ Testi e materiale di riferimento
     - pagina 7 (Criteri del 3/5 e del 4/10)
     - pagina 8 (Numero di anni mancanti consecutivi)
     - pagina 16 (valori climatologici non standard)
+- [Canadian Climate Normals](https://climate.weather.gc.ca/climate_normals/index_e.html)
+  - Per i trentenni climatologici 1981-2010 e 1971-2000:
+    - per ogni parametro e per ogni stazione è assegnato un "Normal Code" per indicare il numero di anni (almeno 15) che concorrono al calcolo del valore normale 
     
 ## Articoli valori normali
 
